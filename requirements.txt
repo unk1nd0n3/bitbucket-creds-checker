@@ -1,0 +1,9 @@
+logging
+json2html
+json2csv
+GitPython
+unittest2
+pytest-cov
+codecov
+bitbucket
+requests_oauthlib

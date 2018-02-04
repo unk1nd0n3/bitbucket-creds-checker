@@ -1,0 +1,24 @@
+__pycache__/
+
+# Ignore dev folders and files
+.idea
+*.sublime*
+# Ignore folders
+**/repos/
+**/checks/
+**/tmp/
+**/results/
+**/logs/
+**/venv/
+
+# Ignore files with extensions
+*.json
+*.csv
+*.out
+*.db
+*.cfg
+*.log
+*.pyc
+
+# Ignore partiuclar files
+/.config/config.cfg
